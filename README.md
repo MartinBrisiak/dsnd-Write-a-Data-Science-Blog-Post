@@ -14,4 +14,4 @@ To run the notebook download Seattle AirBnB dataset from [here](https://www.kagg
 To finish first project of udacity nanodegree `Become a Data Scientist`.
 
 ## Results
-Findsing of my analysis can be found in [here](todo).
+Findsing of my analysis can be found in [here](https://medium.com/@martin.brisiak/crystal-ball-tell-us-the-secrets-of-airbnb-in-seattle-f330524ca7e1).
